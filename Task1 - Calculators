@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Adrian Karaulanov 12/5 First_Site</title>
+<meta charset="UTF-8"/>
+</head>
+<body bgcolor="cyan">
+<center>
+<h1>История на развитието на изчислителните машини</h1>
+<h2><u> Механичен калкулатор</u></h2>
+<img src="maxresdefault.jpg" width = "500" height = "500" title = "ancient_calc" border = "2" alt = "ancient_calc"></img>
+<p>
+Описание... <br/><i> Описание... </i><br/><b> Описание... </b>
+</p>
+<hr width="60%" size="5" color="blue"/>
+<h2><u> Електронен калкулатор</u> </h2>
+<img src="Images/digital-calculator.png" width = "500" height = "500" title = "modern_calc" border = "2" alt = "modern_calc"></img>
+<p>
+Описание... <br/><i> Описание... </i><br/><b> Описание... </b>
+</p>
+</center>
+</body>
+
+</html>
